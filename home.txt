@@ -1,5 +1,5 @@
 {
 "storeHouse": [
-{"sourceName":"🐶PX优选仓","sourceUrl":"https://git.acwing.com/pxiptv/tv/-/raw/main/line.txt"}
+{"sourceName":"🐶PX优选仓","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/hero1898/iptv/main/line.txt"}
               ]
 }
