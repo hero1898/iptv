@@ -1,0 +1,209 @@
+{
+    "urls": [
+        {
+
+            "url": "https://git.acwing.com/pxiptv/tv/-/raw/main/pp.json",
+
+            "name": "🐶PX影视🐶"
+
+        },
+        {
+
+            "url": "https://gitlab.com/hero1898/DSZB/-/raw/main/og.json",
+
+            "name": "🅱PX影视🅱"
+
+        },
+        {
+
+            "url": "http://www.饭太硬.com/tv",
+
+            "name": "🍚饭太硬🍚"
+
+        },
+//https://6296.kstore.vip/facat.json
+        {
+
+            "url": "http://肥猫.com",
+
+            "name": "😻肥猫😻"
+
+        },
+//http://tv.999888987.xyz/
+        {
+
+            "url": "http://tvbox.王二小放牛娃.top",
+
+            "name": "🐮王二小放牛娃🐮"
+
+        }, 
+        {
+
+            "url": "http://我不是.摸鱼儿.com",
+
+            "name": "🐠摸鱼儿线路🐠"
+
+        },
+        {
+
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+
+            "name": "🐠巧技线路🐠"
+
+        },
+        {
+
+            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
+
+            "name": "📢欧歌家庭线路📢"
+
+        },
+        {
+
+            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
+
+            "name": "💚阿里4k-token线路💚"
+
+        },
+        {
+
+            "url": "https://raw.bgithub.xyz/alantang1977/X/main/X.json",
+
+            "name": "😻汤影视❶😻"
+
+        },
+        {
+
+            "url": "https://raw.bgithub.xyz/alantang1977/X/main/aTV.json",
+
+            "name": "😻汤影视❷😻"
+
+        },
+        {
+
+            "url": "https://mpanso.me/DEMO.json",
+
+            "name": "🍥米家互联🌏"
+
+        },
+        {
+
+            "url": "http://xhztv.top/xhz/",
+
+            "name": "🐹聚玩盒子🐹"
+
+        },
+        {
+
+            "url": "https://raw.bgithub.xyz/meilirenTV/tv/main/mc.txt",
+
+            "name": "💖魅力人影视💖"
+
+        },
+        {
+
+            "url": "https://raw.bgithub.xyz/xiongjian83/TvBox/main/X.json",
+
+            "name": "🚀雄健线路🚀"
+
+        },
+        {
+
+            "url": "https://raw.bgithub.xyz/250992941/iptv/main/2.json",
+
+            "name": "🧸25线路🧸"
+
+        }, 
+        {
+
+            "url": "https://raw.bgithub.xyz/vbskycn/tvbox/main/%E5%B0%8F%E9%9B%85TV.txt",
+
+            "name": "🔍影探线路🔎"
+
+        },
+        {
+
+    	    "url": "https://raw.bgithub.xyz/wzxxcz/xcz/master/xcz.json",
+
+    	    "name": "🍊小橙子影视🍊"
+
+        },
+        {
+
+            "url": "https://raw.bgithub.xyz/shenjh2023/2024tv/main/fast.txt",
+
+            "name": "😈Fast线路😈"
+
+        },
+        {
+
+            "url": "https://git.acwing.com/pxiptv/tv/-/raw/main/duhe.json",
+
+            "name": "💎独盒影视💎"
+
+        },
+//        {
+
+//            "url": "https://raw.bgithub.xyz/zx419d2o0/TasIkE/main/tv/vod/jsm.json",
+
+//            "name": "💖PG线路💖"
+
+//        },
+        {
+
+            "url": "https://raw.bgithub.xyz/qist/tvbox/master/0826.json",
+
+            "name": "💖0826线路💖"
+
+        },
+        {
+
+    	    "url": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/ncdjaj.json",
+
+    	    "name": "⛄大杂烩⛄"
+
+        },
+        {
+
+    	    "url": "https://gitlab.com/hero1898/DSZB/-/raw/main/Tongyong.json",
+
+    	    "name": "🐼鸟叔🐼"
+
+        },
+        {
+
+            "url": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/hanXC.json",
+
+            "name": "💎胜寒线路💎"
+
+        }, 
+        {
+
+            "url": "https://raw.bgithub.xyz/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+
+            "name": "🚀香雅情🚀"
+
+        },
+        {
+
+            "url": "https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json",
+
+            "name": "🐹南风线路🐹"
+
+        },
+        {
+
+            "url": "https://git.acwing.com/pxiptv/tv/-/raw/main/px.json",
+
+            "name": "🐶原始线路🐶"
+
+        },            
+        {
+
+            "url": "https://raw.bgithub.xyz/leilingzero/moyu/master/ceshi/cszy3.json",
+
+            "name": "🎁测试线路🎁"
+
+        }
+    ]
+}

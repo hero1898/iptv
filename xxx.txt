@@ -1,0 +1,6 @@
+{
+"storeHouse": [
+{"sourceName":"🐶PX优选仓","sourceUrl":"https://git.acwing.com/pxiptv/tv/-/raw/main/line.txt"},
+{"sourceName":"🦉稀夏的仓","sourceUrl":"https://git.acwing.com/pxiptv/tv/-/raw/main/xxd.txt"}
+              ]
+}
